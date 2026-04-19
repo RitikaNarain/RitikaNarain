@@ -1,5 +1,5 @@
 - <h2 align="center">👋 Hi, I’m @RitikaNarain</h2>
-- <h2 align="center">Recently Graduated in BS(IT)</h2>
+- <h2 align="center">Graduated in BS(IT)</h2>
 
 - <h3 align="center">Interested in development</h3>
 
